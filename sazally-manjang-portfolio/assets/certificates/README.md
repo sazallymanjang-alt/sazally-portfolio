@@ -1,0 +1,1 @@
+Add Sazally's certificate scans here when available. Remove the "IMAGE COMING SOON" labels or link each corresponding certificate card to its image/PDF only after a real file and any public verification URL are supplied.
